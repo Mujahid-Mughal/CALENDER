@@ -1,7 +1,7 @@
-MINI PROJECT CALENDER
+MINI PROJECT CALCULATOR
 
-DMAS RULE BASED CALENDER
-A Simple Program named "CALENDER" & It will be the First mini project that most of the people makes. 
+DMAS RULE BASED CALCULATOR
+A Simple Program named "CALCULATOR" & It will be the First mini project that most of the people makes. 
 
 A Simple Program using Python Function (if, else, elif) statements.
 
